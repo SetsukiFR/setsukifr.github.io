@@ -1,1 +1,2 @@
+134358733914591477|Update 0.1.1\nThis is a small one:\n- Having an ongoing prediction can block more and more games\n-The same game isn't played twice in a row\n-Kobold's Quest considered chat sentences as inputs.\n-3 New Kobold's Quest maps.
 134345654887099730|Hello everyone\nThis message is here to test the new motd system. I hope you've been enjoying the game update!\nBig up to Spacemantis and StanRenart for their continuous support!
